@@ -1,0 +1,16 @@
+.header{
+        /* background: rgb(21, 48, 75); */
+    position: sticky;   
+    box-shadow: 5px 5px 10px  rgba(0, 0, 0, 0.6); /* Horizontal, Vertical, Blur, Color */    
+   
+}  
+.header-nav, .header-logo{
+        font-size: medium;
+}
+#home:hover,#about:hover,#products:hover,#pricing:hover,#support:hover,#contact:hover,#login:hover,#registor_button:hover{
+        font-weight: 900;              
+}
+header{
+    position: sticky;
+    top: 0px;
+}
